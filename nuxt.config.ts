@@ -2,10 +2,7 @@
 
 export default defineNuxtConfig({
   app: {
-    baseURL: '/test_frontend_v2/',
-  },
-  nitro: {
-    preset: 'github_pages',
+    baseURL: '/',
   },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
