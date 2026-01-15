@@ -1,4 +1,14 @@
 {
   "welcome": "歡迎",
-  "test": "測試"
+  "test": "測試",
+  "operate": "操作",
+  "name": "名字",
+  "age": "年齡",
+  "edit": "修改",
+  "delete": "刪除",
+  "lang": "語言",
+  "add": "新增",
+  "cancel": "取消",
+  "confirm": "確認",
+  "deleteConfirm": "確定要刪除{name}嗎？"
 }

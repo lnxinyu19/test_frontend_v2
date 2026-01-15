@@ -90,5 +90,5 @@ export default defineNuxtConfig({
     },
   },
 
-  css: ['~/assets/css/style.scss'],
+  css: ['@unocss/reset/tailwind.css', '~/assets/css/style.scss'],
 })

@@ -1,6 +1,11 @@
 import { defineConfig, presetUno, presetIcons, type PresetMiniTheme } from 'unocss'
 
 export default defineConfig({
+  theme: {
+    colors: {
+      offwhite: '#fefefe'
+    }
+  },
   rules: [
     [/^fs-(\d*\.?\d+(px|rem|em))$/, ([_, value]) => ({ 'font-size': value })],
     [/^square-(\d*\.?\d+(px|rem|em))$/, ([_, value]) => ({ height: value, width: value })],

@@ -1,4 +1,14 @@
 {
   "welcome": "Welcome",
-  "test": "Test"
+  "test": "Test",
+  "operate": "Operate",
+  "name": "Name",
+  "age": "Age",
+  "edit": "Edit",
+  "delete": "Delete",
+  "lang": "Language",
+  "add": "Add",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "deleteConfirm": "Are you sure you want to delete {name}?"
 }
